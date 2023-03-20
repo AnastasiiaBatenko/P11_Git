@@ -3,6 +3,12 @@
 
 #include <iostream>
 
+void func1()
+{
+    std::cout << "Hello Funk1!\n";
+}
+
+
 int main()
 {
     std::cout << "Hello World!\n";
